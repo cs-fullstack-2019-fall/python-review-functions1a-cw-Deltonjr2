@@ -1,5 +1,5 @@
 # Python review function introduction
-
+Unless it is REALLY helpful for your learning practice please stop putting so much text in your python files. Copying the read me to the top of the file clutters your file. Consider pasting the question right before your work. 1/5. Score : 1
 ### Problem 1
 Create a ```printNumbers``` function to print integers from -25 to 20 to the console (print in the function)
 
